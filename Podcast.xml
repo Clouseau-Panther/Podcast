@@ -12,6 +12,7 @@
 <itunes:author>Me</itunes:author>
 <itunes:summary>Private podcast</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://raw.githubusercontent.com/Clouseau-Panther/Podcast/main/OIP.jpg"/>
 
 <item>
 <title>1-1 History</title>
