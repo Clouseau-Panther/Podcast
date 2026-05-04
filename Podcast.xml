@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+
+<title>My Private Podcast</title>
+<description>Private audio collection</description>
+<link>https://example.com</link>
+<language>ja</language>
+
+<itunes:author>Me</itunes:author>
+<itunes:summary>Private podcast</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+
+<item>
+<title>Episode 1</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1YpxctD0qSb3ZZQZ-ngRjHc0csXUUzm9x" length="123456" type="audio/mpeg"/>
+<guid>ep1</guid>
+</item>
+
+<item>
+<title>Episode 2</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=12yuy0LLKD4l_f0cipQRSD9TWRAfGxlq5" length="123456" type="audio/mpeg"/>
+<guid>ep2</guid>
+</item>
+
+<item>
+<title>Episode 3</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZOK9XPI55R5HQqKJQ_-xMcta4XCDXOUK" length="123456" type="audio/mpeg"/>
+<guid>ep3</guid>
+</item>
+
+<item>
+<title>Episode 4</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1joDFYMcUBPhpBQuIKAukHFJs6ktFhhkO" length="123456" type="audio/mpeg"/>
+<guid>ep4</guid>
+</item>
+
+<item>
+<title>Episode 5</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1p1YeNgIRq0EowQH463HN32Dh1WlzH6ct" length="123456" type="audio/mpeg"/>
+<guid>ep5</guid>
+</item>
+
+<item>
+<title>Episode 6</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=11MyzqZikgUh8iwttQ7hnIci4vlMMFgHQ" length="123456" type="audio/mpeg"/>
+<guid>ep6</guid>
+</item>
+
+<item>
+<title>Episode 7</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1x9VbFredSje8WVzIs_fyMvOdce_u3sLt" length="123456" type="audio/mpeg"/>
+<guid>ep7</guid>
+</item>
+
+<item>
+<title>Episode 8</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1J-SQDv8LPK6IwbKiFMWAQxx3uR_baAY-" length="123456" type="audio/mpeg"/>
+<guid>ep8</guid>
+</item>
+
+<item>
+<title>Episode 9</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=16FJ4_Zko1yTS56L6vRqQ_5ouNdKMvWoX" length="123456" type="audio/mpeg"/>
+<guid>ep9</guid>
+</item>
+
+<item>
+<title>Episode 10</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1hVoDmn_qqD2n6sLMqbZrsMxohi_d6E44" length="123456" type="audio/mpeg"/>
+<guid>ep10</guid>
+</item>
+
+<item>
+<title>Episode 11</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1sbFn7RywI_9nmpLpYk4gZCyvqQphu1-l" length="123456" type="audio/mpeg"/>
+<guid>ep11</guid>
+</item>
+
+<item>
+<title>Episode 12</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1iXXmkLOWFvumoUjYbWHrByVtxfhQBjMK" length="123456" type="audio/mpeg"/>
+<guid>ep12</guid>
+</item>
+
+<item>
+<title>Episode 13</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1X7ONi6pLhDEA4rdtuNpbaxyk6oCgsEQ0" length="123456" type="audio/mpeg"/>
+<guid>ep13</guid>
+</item>
+
+<item>
+<title>Episode 14</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=16KaZ-oD-0WbxoZt0_h8aWUldrTDByBNf" length="123456" type="audio/mpeg"/>
+<guid>ep14</guid>
+</item>
+
+<item>
+<title>Episode 15</title>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=12ev0Dab4qAk2xKjdbTBoj24a9e46BCET" length="123456" type="audio/mpeg"/>
+<guid>ep15</guid>
+</item>
+
+</channel>
+</rss>
